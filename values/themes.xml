@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuoteOfTheDay" parent="Theme.AppCompat.Light.DarkActionBar">
+      <item name="colorPrimary">@color/DeepSkyBlue</item>
+        <item name="colorPrimaryDark">@color/LightBlue</item>
+        <item name="colorAccent">@color/Coral</item>
+    </style>
+
+    <style name="Theme.QuoteOfTheDay" parent="Base.Theme.QuoteOfTheDay" >
+    <item name="colorPrimary">@color/DeepSkyBlue</item>
+    <item name="colorPrimaryDark">@color/LightBlue</item>
+    <item name="colorAccent">@color/Coral</item>
+    </style>
+</resources>
